@@ -21,7 +21,7 @@ The app demonstrates practical applications of machine learning in meteorology a
    git clone https://github.com/kecdevilla/PSMBE102_Rain_Prediction.git <br>
    cd PSMBE102_Rain_Prediction
 2. Install dependencies: <br>
-   pip install -r app-reqs.txt
+   pip install -r requirements.txt
 3. Run the app <br>
    streamlit run app-final.py
 
