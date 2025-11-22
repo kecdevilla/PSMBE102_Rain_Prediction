@@ -34,8 +34,8 @@ The app demonstrates practical applications of machine learning in meteorology a
 **Email:** <br>
 **GitHub:** <br>
 <br>
-**Name:** Gladys San Gabriel<br>
-**Email:** <br>
-**GitHub:** <br>
+**Name:** Gladys Ann San Gabriel<br>
+**Email:** gladysannsangabriel@gmail.com<br>
+**GitHub:** https://github.com/qgassangabriel<br>
 <br>
 Feel free to reach out for any questions or collaboration opportunities.
