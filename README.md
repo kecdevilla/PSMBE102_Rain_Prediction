@@ -24,7 +24,9 @@ The app demonstrates practical applications of machine learning in meteorology a
    pip install -r requirements.txt
 3. Run the app <br>
    streamlit run app-final.py
-
+4. You can also run the app via this link. Make sure to set Python version to 3.10: <br>
+   https://psmdsbe102-rainapp.streamlit.app/ <br>
+   
 ## Contact Information
 **Name:** Kiara Elizabeth De Villa <br>
 **Email:** kiara.de.villa0219@gmail.com | qkecdevilla@tip.edu.ph <br>
