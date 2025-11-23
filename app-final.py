@@ -20,11 +20,18 @@ st.markdown("""
         background: linear-gradient(to bottom, #2C558C, #0f1b3d);
     }
 
-    /* Forces most labels and headers to be bright */
-    h4, h5, h6, span, div, a {
-        color: #f1f5f9 !important;
+    div[data-baseweb="select"] > div {
+        color: #111827 !important;
+    }
+            
+    ul[role="listbox"] li {
+        color: #111827 !important;
     }
 
+    div[data-baseweb="select"] span {
+        color: #111827 !important;
+    }
+    
     /* Keep titles colorful */
     .header-title {
         font-size: 3.5rem !important;
