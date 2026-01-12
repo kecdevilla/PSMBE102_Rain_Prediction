@@ -33,8 +33,8 @@ The app demonstrates practical applications of machine learning in meteorology a
 **GitHub:** https://github.com/kecdevilla/ <br>
 <br>
 **Name:** Arlene P. Valenzuela <br>
-**Email:** <br>
-**GitHub:** <br>
+**Email:** qapvalenzuela@tip.edu.ph <br>
+**GitHub:** https://github.com/apvalenzuela<br>
 <br>
 **Name:** Gladys Ann San Gabriel<br>
 **Email:** gladysannsangabriel@gmail.com<br>
